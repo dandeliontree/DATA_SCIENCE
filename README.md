@@ -1,4 +1,4 @@
 DATA_SCIENCE
 ============
 
-JWC's Repo or Johns Hopkins Data Science Specialization
+JWC's Repo for Johns Hopkins Data Science Specialization
